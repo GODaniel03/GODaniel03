@@ -1,126 +1,193 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  Custom-built README. All animated SVGs are hand-coded in        ║
+  ║  /assets and live in this repo. No third-party banner services.  ║
+  ╚══════════════════════════════════════════════════════════════════╝
+-->
+
+<img src="./assets/hero.svg" alt="Jesús Mejía — Fullstack Developer" width="100%" />
+
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:475569&height=220&section=header&text=Jes%C3%BAs%20Mej%C3%ADa&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20Developer%20%C2%B7%20Systems%20Engineering%20%C2%B7%20Costa%20Rica&descSize=18&descAlignY=58&descColor=cbd5e1&animation=fadeIn)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+SaaS+platforms+end-to-end;TypeScript+%C2%B7+React+%C2%B7+Node+%C2%B7+Python;DevOps+tooling+%26+observability;Open+source+via+WordPress+WPCredits)](https://git.io/typing-svg)
-
-![Profile views](https://komarev.com/ghpvc/?username=GODaniel03&label=Profile%20views&color=58a6ff&style=flat)
-![Open to work](https://img.shields.io/badge/Open%20to%20work-2ea44f?style=flat)
-![Location](https://img.shields.io/badge/Costa%20Rica-1e40af?style=flat&logo=googlemaps&logoColor=white)
-![University](https://img.shields.io/badge/UFide-Systems%20Engineering-475569?style=flat)
+![Status](https://img.shields.io/badge/-shipping-22c55e?style=flat-square&labelColor=020617)
+![Open](https://img.shields.io/badge/-open__to__work-3b82f6?style=flat-square&labelColor=020617)
+![Where](https://img.shields.io/badge/-san__jos%C3%A9%2C__cr-60a5fa?style=flat-square&labelColor=020617)
+![Eng](https://img.shields.io/badge/-systems__eng-94a3b8?style=flat-square&labelColor=020617)
+![Visitors](https://komarev.com/ghpvc/?username=GODaniel03&label=visits&color=3b82f6&style=flat-square)
 
 </div>
-
----
-
-### About
-
-```ts
-const jesus = {
-  role:       "Fullstack Developer",
-  location:   "Costa Rica · UTC-6",
-  studying:   "Systems Engineering @ Universidad Fidélitas",
-  focus:      ["SaaS architecture", "Web apps", "DevOps tooling"],
-  building:   "Company management portal",
-  contrib:    "WordPress WPCredits program",
-  learning:   ["Distributed systems", "Cloud-native patterns"],
-  motto:      "Ship small, observe everything, iterate fast.",
-};
-```
-
----
-
-### Tech Stack
-
-<div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,postgres,docker,git,github,vscode,vercel,linux,bash&perline=14)](https://skillicons.dev)
 
 <br/>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+<!-- ════════════════════════ BENTO ROW 1 ════════════════════════ -->
 
-</div>
+<table align="center" width="100%">
+<tr>
+<td width="62%" valign="top">
 
----
+#### `~/whoami`
 
-### Currently Building
+```ts
+const me = {
+  name      : "Jesús Mejía",
+  role      : "Fullstack Developer",
+  studying  : "Systems Engineering · UFidélitas",
+  region    : "Costa Rica — UTC-6",
+  focus     : ["SaaS architecture",
+               "DX tooling",
+               "Observability"],
+  building  : "Company management portal",
+  guild     : "WordPress · WPCredits",
+  signature : "ship small / observe all / iterate",
+};
+```
 
-> **SaaS Company Portal** — authentication, RBAC, onboarding flows, observability with Sentry, and E2E coverage with Playwright. Built on Next.js + PostgreSQL, deployed via Docker.
+</td>
+<td width="38%" valign="top" align="center">
 
----
+#### `~/avatar`
 
-### GitHub Stats
+<img src="https://media.tenor.com/HCJ9WdgyqXIAAAAi/pixel-cat.gif" width="180" alt="avatar" />
+
+<sub>`placeholder — drop your gif into assets/avatar.gif`</sub>
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ════════════════════════ STACK ════════════════════════ -->
+
+#### `~/stack --proficiency`
+
+<img src="./assets/stack.svg" alt="Stack proficiency bars" width="100%" />
+
+<details>
+<summary><code>~/stack --details</code></summary>
+
+| Layer        | Tools                                                            |
+| ------------ | ---------------------------------------------------------------- |
+| **language** | TypeScript · JavaScript · Python · SQL · Bash                    |
+| **frontend** | React · Next.js · Tailwind · React Native                        |
+| **backend**  | Node.js · Express · FastAPI · tRPC                               |
+| **data**     | PostgreSQL · Prisma · Redis                                      |
+| **devops**   | Docker · GitHub Actions · Vercel · Linux                         |
+| **quality**  | Playwright · Vitest · Sentry · ESLint                            |
+| **tooling**  | VS Code · Neovim · pnpm · Turborepo                              |
+
+</details>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ════════════════════════ BENTO ROW 2 ════════════════════════ -->
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+#### `~/now --building`
+
+> **SaaS Company Portal**
+>
+> Auth · RBAC · onboarding · Sentry observability · Playwright E2E.
+>
+> Next.js · PostgreSQL · Docker.
+
+```
+progress  ▰▰▰▰▰▰▰▱▱▱  70%
+sprint    ▰▰▰▰▰▰▰▰▱▱  82%
+coffee    ▰▰▰▰▰▰▰▰▰▰  ∞
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### `~/now --learning`
+
+- distributed systems · queues, idempotency, sagas
+- cloud-native patterns · k8s, service mesh
+- type-driven design · branded types, ADTs
+- LLM tooling · evals, retrieval, agent loops
+
+#### `~/now --reading`
+
+- *Designing Data-Intensive Applications* — Kleppmann
+- *The Pragmatic Engineer* — Orosz
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ════════════════════════ STATS ════════════════════════ -->
+
+#### `~/stats --github`
 
 <div align="center">
 
-<a href="https://github.com/GODaniel03">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GODaniel03&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/GODaniel03">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GODaniel03&layout=compact&hide_border=true&theme=github_dark&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=GODaniel03&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=3B82F6&currStreakNum=94A3B8&sideNums=94A3B8&currStreakLabel=58A6FF&sideLabels=94A3B8&dates=64748B" alt="Streak" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GODaniel03&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800&hide_title=true&hide_rank=false&card_width=900" alt="GitHub stats" width="100%" />
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-### Contribution Activity
+<!-- ════════════════════════ CONTRIBUTIONS ════════════════════════ -->
 
-<div align="center">
+#### `~/activity --snake`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GODaniel03&bg_color=0D1117&color=58A6FF&line=3B82F6&point=94A3B8&area=true&hide_border=true" alt="Activity Graph" />
+<!-- Snake animation. Generated by .github/workflows/snake.yml on the `output` branch. -->
 
-</div>
-
----
-
-### Contribution Snake
-
-<!-- Snake animation. Requires action: .github/workflows/snake.yml. After first run, output branch will be created and snake renders. -->
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GODaniel03/GODaniel03/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GODaniel03/GODaniel03/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/GODaniel03/GODaniel03/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/GODaniel03/GODaniel03/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-### Trophies
+<!-- ════════════════════════ CONNECT ════════════════════════ -->
 
-<div align="center">
+#### `~/connect`
 
-<img src="https://github-profile-trophy.vercel.app/?username=GODaniel03&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
+<table align="center" width="100%">
+<tr>
+<td width="25%" align="center">
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617)](https://www.linkedin.com/in/jes%C3%BAs-mejia)
 
----
+`reach out`
 
-### Contact
+</td>
+<td width="25%" align="center">
 
-<div align="center">
+[![Email](https://img.shields.io/badge/-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617)](mailto:jesusdma03@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jes%C3%BAs-mejia)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesusdma03@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-sitio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GODaniel03)
+`write me`
 
-</div>
+</td>
+<td width="25%" align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:475569,50:1e40af,100:0f172a&height=120&section=footer)
+[![Portfolio](https://img.shields.io/badge/-portfolio-3b82f6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617)](https://tu-sitio.com)
+
+`see work`
+
+</td>
+<td width="25%" align="center">
+
+[![GitHub](https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=020617)](https://github.com/GODaniel03)
+
+`browse repos`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="./assets/footer.svg" alt="" width="100%" />
