@@ -19,13 +19,7 @@
 
 </div>
 
-```
-████████████████████████████████████████████████████████████████
-█                                                              █
-█   ▓▒░  P L A Y E R   P R O F I L E   ░▒▓                     █
-█                                                              █
-████████████████████████████████████████████████████████████████
-```
+![Section](https://capsule-render.vercel.app/api?type=rect&color=0:000814,100:00BFFF&height=70&section=header&text=%E2%96%B6%20PLAYER%20PROFILE&fontSize=34&fontColor=00FFFF&font=VT323&fontAlignY=56)
 
 <table>
 <tr>
@@ -71,11 +65,7 @@ const player = {
 </tr>
 </table>
 
-```
-████████████████████████████████████████████████████████████████
-█   ▓▒░  I N V E N T O R Y   ░▒▓                               █
-████████████████████████████████████████████████████████████████
-```
+![Section](https://capsule-render.vercel.app/api?type=rect&color=0:000814,100:00BFFF&height=70&section=header&text=%E2%96%B6%20INVENTORY&fontSize=34&fontColor=00FFFF&font=VT323&fontAlignY=56)
 
 <div align="center">
 
@@ -83,21 +73,13 @@ const player = {
 
 </div>
 
-```
-████████████████████████████████████████████████████████████████
-█   ▓▒░  C U R R E N T   Q U E S T   ░▒▓                       █
-████████████████████████████████████████████████████████████████
-```
+![Section](https://capsule-render.vercel.app/api?type=rect&color=0:000814,100:00BFFF&height=70&section=header&text=%E2%96%B6%20CURRENT%20QUEST&fontSize=34&fontColor=00FFFF&font=VT323&fontAlignY=56)
 
 > ` ▶ ` **SaaS Company Portal** — authentication · RBAC · onboarding flows · Sentry observability · Playwright E2E.
 > ` ▶ ` Stack: Next.js + PostgreSQL + Docker.
 > ` ▶ ` Status: `IN_PROGRESS` ▓▓▓▓▓▓▓░░░ 70%
 
-```
-████████████████████████████████████████████████████████████████
-█   ▓▒░  S T A T S   ░▒▓                                       █
-████████████████████████████████████████████████████████████████
-```
+![Section](https://capsule-render.vercel.app/api?type=rect&color=0:000814,100:00BFFF&height=70&section=header&text=%E2%96%B6%20STATS&fontSize=34&fontColor=00FFFF&font=VT323&fontAlignY=56)
 
 <div align="center">
 
@@ -114,11 +96,7 @@ const player = {
 
 </div>
 
-```
-████████████████████████████████████████████████████████████████
-█   ▓▒░  A C T I V I T Y   L O G   ░▒▓                         █
-████████████████████████████████████████████████████████████████
-```
+![Section](https://capsule-render.vercel.app/api?type=rect&color=0:000814,100:00BFFF&height=70&section=header&text=%E2%96%B6%20ACTIVITY%20LOG&fontSize=34&fontColor=00FFFF&font=VT323&fontAlignY=56)
 
 <div align="center">
 
@@ -126,11 +104,7 @@ const player = {
 
 </div>
 
-```
-████████████████████████████████████████████████████████████████
-█   ▓▒░  S N A K E . E X E   ░▒▓                               █
-████████████████████████████████████████████████████████████████
-```
+![Section](https://capsule-render.vercel.app/api?type=rect&color=0:000814,100:00BFFF&height=70&section=header&text=%E2%96%B6%20SNAKE.EXE&fontSize=34&fontColor=00FFFF&font=VT323&fontAlignY=56)
 
 <div align="center">
 
@@ -142,11 +116,7 @@ const player = {
 
 </div>
 
-```
-████████████████████████████████████████████████████████████████
-█   ▓▒░  A C H I E V E M E N T S   ░▒▓                         █
-████████████████████████████████████████████████████████████████
-```
+![Section](https://capsule-render.vercel.app/api?type=rect&color=0:000814,100:00BFFF&height=70&section=header&text=%E2%96%B6%20ACHIEVEMENTS&fontSize=34&fontColor=00FFFF&font=VT323&fontAlignY=56)
 
 <div align="center">
 
@@ -163,11 +133,7 @@ const player = {
 
 </div>
 
-```
-████████████████████████████████████████████████████████████████
-█   ▓▒░  C O N N E C T   ░▒▓                                   █
-████████████████████████████████████████████████████████████████
-```
+![Section](https://capsule-render.vercel.app/api?type=rect&color=0:000814,100:00BFFF&height=70&section=header&text=%E2%96%B6%20CONNECT&fontSize=34&fontColor=00FFFF&font=VT323&fontAlignY=56)
 
 <div align="center">
 
