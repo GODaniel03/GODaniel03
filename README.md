@@ -62,8 +62,12 @@ const jesus = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GODaniel03&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=94A3B8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GODaniel03&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=94A3B8&langs_count=8" alt="Top Languages" />
+<a href="https://github.com/GODaniel03">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GODaniel03&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/GODaniel03">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GODaniel03&layout=compact&hide_border=true&theme=github_dark&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+</a>
 
 <br/><br/>
 
